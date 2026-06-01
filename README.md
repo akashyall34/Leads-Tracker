@@ -2,6 +2,8 @@
 
 It is a chrome extension base that will help in saving tabs, deleting the saved tabs, and essentially helping with having a decluttered chrome window. Built while taking Full Stack Developer Path at Scrimba.
 
+<img width="422" height="187" alt="Screenshot 2026-06-01 at 1 50 26 PM" src="https://github.com/user-attachments/assets/b20e72e1-3a86-4f24-b7cb-9fec5bc5e7e9" />
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
