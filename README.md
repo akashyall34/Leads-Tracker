@@ -1,11 +1,7 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+## Leads Tracker
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+It is a chrome extension base that will help in saving tabs, deleting the saved tabs, and essentially helping with having a decluttered chrome window. Built while taking Full Stack Developer Path at Scrimba.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
